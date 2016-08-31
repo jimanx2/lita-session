@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sessi",
+				"SessionObject"
+			],
+			[
+				"update",
+				"update_hash"
+			],
+			[
+				"upda",
+				"update_hash"
+			],
+			[
+				"congi",
+				"configuration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 37.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jiman/Development/lita-session",
+		"/home/jiman/Development/lita-session/lib",
+		"/home/jiman/Development/lita-session/lib/lita",
+		"/home/jiman/Development/lita-session/lib/lita/session"
+	],
+	"file_history":
+	[
+		"/home/jiman/Development/lita-session/lib/lita/session/session_object.rb",
+		"/home/jiman/Development/lita-session/lib/lita/session.rb",
+		"/home/jiman/Development/lita-session/lita-session.gemspec",
+		"/home/jiman/Development/lita-session/lib/lita/session/configuration.rb",
+		"/home/jiman/Development/lita-session/Rakefile",
+		"/home/jiman/Development/lita-session/lib/lita/session/session_helper.rb",
+		"/home/jiman/Development/lita-session/spec/lita/session_spec.rb",
+		"/home/jiman/Development/ruby-session/ruby-session.gemspec",
+		"/home/jiman/Development/platebid/app/controllers/telegrambot/commands_controller.rb",
+		"/home/jiman/Development/platebid/app/models/platedb.rb",
+		"/home/jiman/Development/platebid/app/views/telegrambot/info.json.jbuilder",
+		"/home/jiman/Development/platebid/app/controllers/telegrambot_controller.rb",
+		"/home/jiman/Development/platebid/app/views/telegrambot/presale.json.jbuilder",
+		"/home/jiman/Development/platebid/config/routes.rb",
+		"/home/jiman/Development/platebid/app/datatables/customerplatedbs_datatable.rb",
+		"/home/jiman/Development/platebid/app/pagescripts/bids/_watchlist.js",
+		"/home/jiman/Development/platebid/config/locales/telegram.yml",
+		"/home/jiman/Development/platebid/config/initializers/user_acl.rb",
+		"/home/jiman/Development/platebid/app/controllers/application_controller.rb",
+		"/home/jiman/Development/platebid/app/controllers/platedbs_controller.rb",
+		"/home/jiman/Development/platebid/lib/tasks/mailer.rake",
+		"/home/jiman/Development/platebid/config/environments/development.rb",
+		"/home/jiman/Development/platebid/config/environments/production.rb",
+		"/home/jiman/Development/platebid/config/application.rb",
+		"/home/jiman/Development/platebid/app/mailers/registration_mailer.rb",
+		"/home/jiman/Development/platebid/app/models/customer.rb",
+		"/home/jiman/Development/platebid/app/views/web/plate_list.html.erb",
+		"/home/jiman/Development/platebid/app/datatables/platedbs_datatable.rb",
+		"/home/jiman/Development/platebid/config/deploy/production.rb",
+		"/home/jiman/Development/platebid/config/deploy/staging.rb",
+		"/home/jiman/Development/platebid/config/deploy.rb",
+		"/home/jiman/Development/platebid/app/controllers/dashboards_controller.rb",
+		"/home/jiman/Development/platebid/Capfile",
+		"/home/jiman/Development/platebid/config/puma/staging.rb",
+		"/home/jiman/Development/platebid/config/secrets.yml",
+		"/home/jiman/Development/platebid/config/database.yml",
+		"/home/jiman/Development/platebid/app/models/user.rb",
+		"/home/jiman/Development/platebid/app/controllers/bids_controller.rb",
+		"/home/jiman/Development/platebid/app/assets/stylesheets/frontend/index.scss",
+		"/home/jiman/Development/platebid/app/assets/stylesheets/admin3/index.scss",
+		"/home/jiman/Development/platebid/config/puma/production.rb",
+		"/home/jiman/Development/platebid/app/views/admin3/shared/_header.html.erb",
+		"/home/jiman/Development/platebid/Gemfile",
+		"/home/jiman/Development/platebid/app/views/web/contact_us.html.erb",
+		"/home/jiman/Development/platebid/app/views/layouts/admin3/login_soft.html.erb",
+		"/home/jiman/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jiman/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jiman/Development/tpcopy/bin/tpcopy",
+		"/home/jiman/Development/tpcopy/Rakefile",
+		"/home/jiman/Development/tpcopy/lib/tpcopy/cli.rb",
+		"/home/jiman/Development/tpcopy/bin/console",
+		"/home/jiman/Development/tpcopy/lib/tasks/tpcopy",
+		"/home/jiman/Development/tpcopy/lib/tpcopy/importer.rb",
+		"/home/jiman/Development/tpcopy/tpcopy.gemspec",
+		"/home/jiman/Development/murah_shop/config/database.yml",
+		"/home/jiman/Development/murah_shop/Procfile",
+		"/home/jiman/Development/murah_shop/config/initializers/assets.rb",
+		"/home/jiman/Development/murah_shop/app/controllers/home_controller.rb",
+		"/home/jiman/Development/murah_shop/app/controllers/application_controller.rb",
+		"/home/jiman/Downloads/SERIAL.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/home/jiman/Development/platebid"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"host",
+			"platestatus",
+			"Acl",
+			"	\n",
+			"presale",
+			"secret_key_base",
+			"countdown",
+			"dashboards",
+			"url('",
+			"url(",
+			"sort_both.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"asset-url('select2/",
+			"asset-url("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Rakefile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lita-session.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_watch",
+				"app/pagescripts/bids/_watchlist.js"
+			],
+			[
+				"plate.rb",
+				"app/models/platedb.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"telegram",
+				"app/controllers/telegrambot_controller.rb"
+			],
+			[
+				"application_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"platedbs_con",
+				"app/controllers/platedbs_controller.rb"
+			],
+			[
+				"developmen",
+				"config/environments/development.rb"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"regist",
+				"app/mailers/registration_mailer.rb"
+			],
+			[
+				"customer.rb",
+				"app/models/customer.rb"
+			],
+			[
+				"capfile",
+				"Capfile"
+			],
+			[
+				"custom",
+				"app/models/customer.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"header.",
+				"app/views/admin3/shared/_header.html.erb"
+			],
+			[
+				"dashboards_con",
+				"app/controllers/dashboards_controller.rb"
+			],
+			[
+				"admin3/index",
+				"app/assets/stylesheets/admin3/index.scss"
+			],
+			[
+				"contact",
+				"app/views/web/contact_us.html.erb"
+			],
+			[
+				"asset",
+				"config/initializers/assets.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
