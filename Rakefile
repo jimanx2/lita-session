@@ -11,10 +11,11 @@ task :default do
 	end
 
 	include Lita::Session::SessionObject
-	sess = session 231321
-	sess[:token] = "123"
-	sess[:token2] = "234"
-	puts sess.content
+	sess = session(231321, create: true)
+	sess["token"] = "123"
+	sess["token2"] = "234"
+	sess = session(231321)
+	sess["token"] = "51442"
+	puts sess["token"]
 	sess.destroy
-	puts sess.content
 end
